@@ -1,1 +1,1 @@
-print("apasi lu woi jink")
+print("apasi lu woi jinkk")
